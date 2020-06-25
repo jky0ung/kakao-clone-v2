@@ -1,0 +1,8 @@
+.find .find__header-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.find .find__header-btn {
+    display: block;
