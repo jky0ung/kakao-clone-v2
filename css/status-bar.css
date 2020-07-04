@@ -2,8 +2,7 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 30px;
-    position: fixed;
-    width: 100%;
+    opacity: 0.7;
 }
 
 .status-bar i {

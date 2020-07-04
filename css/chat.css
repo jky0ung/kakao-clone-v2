@@ -2,8 +2,15 @@
     padding: 0;
 }
 
+.chats-body .status-bar,
+.chats-body .header {
+    padding: 0px 20px;
+}
+
+
 .chat {
     background-image:url("../images/chatBg.png");
+    min-height: 100vh;
 }
 
 .chat__write {
